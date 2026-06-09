@@ -1,4 +1,4 @@
-# Hi, I’m [Your Name] 👋
+# Hi, I’m Isaiah Item 👋
 
 I’m a Nigerian student learning software development and building small projects to improve my skills.
 
